@@ -64,3 +64,15 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.nav-anchors {
+	margin-left: 50px;
+	margin-right: 50px;
+	text-decoration: none;
+	font-size: 20px;
+	color: grey;
+}
+
+img .logo {
+	margin-right: 30px;
+}
