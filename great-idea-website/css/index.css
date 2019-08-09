@@ -71,8 +71,23 @@ h1, h2, h3, h4, h5 {
 	text-decoration: none;
 	font-size: 20px;
 	color: grey;
+	display: inline-block;
 }
 
 img .logo {
 	margin-right: 30px;
+}
+
+.section-one {
+	display: block;
+	margin-top: 30px;
+}
+
+.get-started-button {
+	border: 1px solid black;
+	height : 30px; 
+}
+
+img .header-img {
+	margin-left: 40px;
 }
