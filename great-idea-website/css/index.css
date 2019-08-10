@@ -48,46 +48,5 @@ table {
 }
 
 /* Set every element's box-sizing to border-box */
-* {
-    box-sizing: border-box;
-}
 
-html, body {
-    height: 100%;
-    font-family: 'Titillium Web', sans-serif;
-}
-
-h1, h2, h3, h4, h5 {
-    font-family: 'Bangers', cursive;
-    letter-spacing: 1px;
-    margin-bottom: 15px;
-}
-
-/* Your code starts here! */
-
-.nav-anchors {
-	margin-left: 50px;
-	margin-right: 50px;
-	text-decoration: none;
-	font-size: 20px;
-	color: grey;
-	display: inline-block;
-}
-
-img .logo {
-	margin-right: 30px;
-}
-
-.section-one {
-	display: block;
-	margin-top: 30px;
-}
-
-.get-started-button {
-	border: 1px solid black;
-	height : 30px; 
-}
-
-img .header-img {
-	margin-left: 40px;
-}
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
